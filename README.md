@@ -3,5 +3,5 @@ Mobile Application using React Native.
 
 Focuses on the current prices of cryptocurrencies.
 
-# Main Features:
+# Future Main Features:
 Alerts/notifications and widgets.
